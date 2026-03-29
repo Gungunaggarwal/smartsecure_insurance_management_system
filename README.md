@@ -1,1 +1,0 @@
-# smartsecure_insurance_management_system
